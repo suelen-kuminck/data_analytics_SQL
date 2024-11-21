@@ -1,6 +1,6 @@
 # Data Analytics SQL
 
-- banco de dados possui uma tabela pedidos com as colunas: ````id_pedido````, data_pedido, valor, categoria, e status.
+- Banco de dados possui uma tabela pedidos com as colunas: ````id_pedido````, ````data_pedido````, ````valor, categoria````, e ````status````.
   
 1. Consulta para identificar
    
